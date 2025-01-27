@@ -10,3 +10,5 @@ https://quickest-juniper-f9c.notion.site/Cohort-2-0-FullStack-Open-Source-6b6c2a
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 
 
+#Pdf JavaScript
+https://drive.google.com/file/d/1dVOOpQ8HPQV7d1D7a0fbLgTb--1EEYwm/view
